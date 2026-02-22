@@ -51,7 +51,7 @@ I'm a student passionate about technology and building things with code. I'm cur
 
 ---
 
-## 🚀 Featured Repositories
+<!--## 🚀 Featured Repositories
 
 > Replace `YOUR_USERNAME` and `REPO_NAME_1/2/3/4` with your actual GitHub username and repo names.
 
@@ -64,7 +64,7 @@ I'm a student passionate about technology and building things with code. I'm cur
 
 </div>
 
----
+--->
 
 ## 📊 GitHub Stats
 
@@ -78,19 +78,19 @@ I'm a student passionate about technology and building things with code. I'm cur
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
-  <!-- Top Languages — still uses Vercel, but lang cards are lighter and less rate-limited -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
+  <!--Top Languages — still uses Vercel, but lang cards are lighter and less rate-limited -->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
 
 </div>
 
 <div align="center">
   <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
----
+--- -->
 
 ## 📫 Connect With Me
 
