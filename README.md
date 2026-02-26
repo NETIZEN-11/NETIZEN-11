@@ -65,16 +65,16 @@ I'm a student passionate about technology and building things with code. I'm cur
 </div>
 
 --->
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
 
   <!-- Streak Stats — hosted on demolab.com, very reliable -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+<!--  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
 
   <!-- Awesome GitHub Stats — hosted on Azure, more stable than Vercel -->
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/YOUR_USERNAME?cardType=level&theme=tokyonight&preferLogin=false" alt="GitHub Stats" width="49%" />
+  <!--<img src="https://awesome-github-stats.azurewebsites.net/user-stats/YOUR_USERNAME?cardType=level&theme=tokyonight&preferLogin=false" alt="GitHub Stats" width="49%" />
 
 </div>
 
